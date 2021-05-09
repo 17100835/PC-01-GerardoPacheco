@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PC01</string>
+    <string name="strTalla">Ingrese su talla (cm)</string>
+    <string name="strPeso">Ingrese su peso (kg)</string>
+    <string name="strResultado">Resultado</string>
+    <string name="strIMC">Su IMC es de: </string>
+    <string name="strClasificacion">Clasificacion: </string>
+    <string name="strInfo">Guardar Informacion</string>
+</resources>
